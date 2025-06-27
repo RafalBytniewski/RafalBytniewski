@@ -23,13 +23,14 @@ I'm a passionate web developer focused on building dynamic and efficient web app
 ## 🧠 Planned to Learn
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Laravel%20Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Breeze" />
   <img src="https://img.shields.io/badge/Inertia.js-800020?style=for-the-badge&logo=laravel&logoColor=white" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
-</p>
-## 🚀 Featured Project: CS2 Grenades Web Application
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p
+  
+## 🚀 Main Project: CS2 Grenades Web Application
 
 **Description:**
 A Laravel-based web application built for **CS2 players** to organize, manage, and share grenade tactics and lineups.
