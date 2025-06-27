@@ -29,7 +29,9 @@ I'm a passionate web developer focused on building dynamic and efficient web app
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p
-  
+
+---
+
 ## 🚀 Main Project: CS2 Grenades Web Application
 
 **Description:**
