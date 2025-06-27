@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafał!
 
-<!--
-**RafalBytniewski/RafalBytniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer focused on building dynamic and efficient web applications using PHP and modern technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- PHP
+- Laravel
+- Livewire
+- Filament
+
+**Database:**
+- MySQL
+
+**Frontend:**
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+
+**Version Control:**
+- Git & GitHub
+
+---
+
+## 🚀 Featured Project: CS2 Grenades Web Application
+
+**Description:**
+A Laravel-based web application built for **CS2 players** to organize, manage, and share grenade tactics and lineups.
+
+**🔧 Key Features:**
+- User registration & login
+- Add / edit / delete grenade lineups
+- Tag-based filtering
+- Social features (rating, favorites)
+- Admin panel with access control
+
+**🧰 Tech Used:**
+- PHP, Laravel, Blade
+- HTML, CSS, Bootstrap
+- JavaScript, jQuery
+- MySQL
+
+
