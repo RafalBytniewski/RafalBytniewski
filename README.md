@@ -2,7 +2,7 @@
 
 I'm a passionate web developer focused on building dynamic and efficient web applications using PHP and modern technologies.
 
-## 💻 Tech I Know
+## 💻 Tech I Used
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
