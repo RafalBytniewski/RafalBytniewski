@@ -51,6 +51,6 @@ A Laravel-based web application built for **CS2 players** to organize, manage, a
 - MySQL
 
 ## Demo
-  (https://csgrenades.toadres.pl/)
+  [demo](https://csgrenades.toadres.pl/)
 
 
