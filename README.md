@@ -28,7 +28,6 @@ I'm a passionate web developer focused on building dynamic and efficient web app
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p
 
 ---
@@ -50,5 +49,7 @@ A Laravel-based web application built for **CS2 players** to organize, manage, a
 - HTML, CSS, Bootstrap
 - JavaScript, jQuery
 - MySQL
+** Demo
+  https://csgrenades.toadres.pl/
 
 
