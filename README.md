@@ -50,7 +50,7 @@ A Laravel-based web application built for **CS2 players** to organize, manage, a
 - JavaScript, jQuery
 - MySQL
 
-** Demo
+## Demo
   https://csgrenades.toadres.pl/
 
 
